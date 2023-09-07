@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akankshaajoshi/fetch-images-mentorsity/blob/gh-pages/index.html/static/css/main.f192bd48.css",
+    "main.js": "/akankshaajoshi/fetch-images-mentorsity/blob/gh-pages/index.html/static/js/main.eccebe88.js",
+    "static/js/787.5b9ded9d.chunk.js": "/akankshaajoshi/fetch-images-mentorsity/blob/gh-pages/index.html/static/js/787.5b9ded9d.chunk.js",
+    "index.html": "/akankshaajoshi/fetch-images-mentorsity/blob/gh-pages/index.html/index.html",
+    "main.f192bd48.css.map": "/akankshaajoshi/fetch-images-mentorsity/blob/gh-pages/index.html/static/css/main.f192bd48.css.map",
+    "main.eccebe88.js.map": "/akankshaajoshi/fetch-images-mentorsity/blob/gh-pages/index.html/static/js/main.eccebe88.js.map",
+    "787.5b9ded9d.chunk.js.map": "/akankshaajoshi/fetch-images-mentorsity/blob/gh-pages/index.html/static/js/787.5b9ded9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f192bd48.css",
+    "static/js/main.eccebe88.js"
+  ]
+}
